@@ -83,7 +83,7 @@ class Sala2 extends React.Component {
                <p className="card-text">CAMA B67-5</p>
                <div className="d-flex justify-content-between align-items-center">
                  <div className="btn-group">
-                   <button type="button" className="btn btn-sm btn-outline-secondary">Leer</button>
+                   <button type="button" className="btn btn-sm btn-outline-secondary">Ver paciente</button>
 
                  </div>
 
@@ -98,7 +98,7 @@ class Sala2 extends React.Component {
                <p className="card-text">CAMA B67-6</p>
                <div className="d-flex justify-content-between align-items-center">
                  <div className="btn-group">
-                   <button type="button" className="btn btn-sm btn-outline-secondary">Leer</button>
+                   <button type="button" className="btn btn-sm btn-outline-secondary">Ver paciente</button>
 
                  </div>
 
@@ -113,7 +113,7 @@ class Sala2 extends React.Component {
                <p className="card-text">CAMA B67-7</p>
                <div className="d-flex justify-content-between align-items-center">
                  <div className="btn-group">
-                   <button type="button" className="btn btn-sm btn-outline-secondary">Leer</button>
+                   <button type="button" className="btn btn-sm btn-outline-secondary">Ver paciente</button>
 
                  </div>
 
